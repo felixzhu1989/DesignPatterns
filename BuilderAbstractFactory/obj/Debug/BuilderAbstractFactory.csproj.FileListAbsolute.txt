@@ -1,0 +1,7 @@
+D:\CSharp\repos\DesignPatterns\BuilderAbstractFactory\bin\Debug\BuilderAbstractFactory.exe.config
+D:\CSharp\repos\DesignPatterns\BuilderAbstractFactory\bin\Debug\BuilderAbstractFactory.exe
+D:\CSharp\repos\DesignPatterns\BuilderAbstractFactory\bin\Debug\BuilderAbstractFactory.pdb
+D:\CSharp\repos\DesignPatterns\BuilderAbstractFactory\obj\Debug\BuilderAbstractFactory.csproj.AssemblyReference.cache
+D:\CSharp\repos\DesignPatterns\BuilderAbstractFactory\obj\Debug\BuilderAbstractFactory.csproj.CoreCompileInputs.cache
+D:\CSharp\repos\DesignPatterns\BuilderAbstractFactory\obj\Debug\BuilderAbstractFactory.exe
+D:\CSharp\repos\DesignPatterns\BuilderAbstractFactory\obj\Debug\BuilderAbstractFactory.pdb

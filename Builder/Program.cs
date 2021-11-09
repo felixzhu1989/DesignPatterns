@@ -7,6 +7,7 @@ namespace Builder
         static void Main(string[] args)
         {
             IPhoneBuilder phoneBuilder=new PhoneBuilder();
+            //链式编程
             Phone phone = phoneBuilder
                 .BuildCpu(cpu => { cpu.Type = "8核16线程"; })
                 .BuildMem(men => { men.Type = "32G"; })
