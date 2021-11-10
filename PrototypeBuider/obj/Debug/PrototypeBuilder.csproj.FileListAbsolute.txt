@@ -1,0 +1,7 @@
+D:\CSharp\repos\DesignPatterns\PrototypeBuider\bin\Debug\PrototypeBuilder.exe.config
+D:\CSharp\repos\DesignPatterns\PrototypeBuider\bin\Debug\PrototypeBuilder.exe
+D:\CSharp\repos\DesignPatterns\PrototypeBuider\bin\Debug\PrototypeBuilder.pdb
+D:\CSharp\repos\DesignPatterns\PrototypeBuider\obj\Debug\PrototypeBuilder.csproj.AssemblyReference.cache
+D:\CSharp\repos\DesignPatterns\PrototypeBuider\obj\Debug\PrototypeBuilder.csproj.CoreCompileInputs.cache
+D:\CSharp\repos\DesignPatterns\PrototypeBuider\obj\Debug\PrototypeBuilder.exe
+D:\CSharp\repos\DesignPatterns\PrototypeBuider\obj\Debug\PrototypeBuilder.pdb

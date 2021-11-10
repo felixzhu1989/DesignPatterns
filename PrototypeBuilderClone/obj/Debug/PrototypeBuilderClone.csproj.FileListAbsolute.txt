@@ -1,0 +1,7 @@
+D:\CSharp\repos\DesignPatterns\PrototypeBuilderClone\bin\Debug\PrototypeBuilderClone.exe.config
+D:\CSharp\repos\DesignPatterns\PrototypeBuilderClone\bin\Debug\PrototypeBuilderClone.exe
+D:\CSharp\repos\DesignPatterns\PrototypeBuilderClone\bin\Debug\PrototypeBuilderClone.pdb
+D:\CSharp\repos\DesignPatterns\PrototypeBuilderClone\obj\Debug\PrototypeBuilderClone.csproj.CoreCompileInputs.cache
+D:\CSharp\repos\DesignPatterns\PrototypeBuilderClone\obj\Debug\PrototypeBuilderClone.exe
+D:\CSharp\repos\DesignPatterns\PrototypeBuilderClone\obj\Debug\PrototypeBuilderClone.pdb
+D:\CSharp\repos\DesignPatterns\PrototypeBuilderClone\obj\Debug\PrototypeBuilderClone.csproj.AssemblyReference.cache

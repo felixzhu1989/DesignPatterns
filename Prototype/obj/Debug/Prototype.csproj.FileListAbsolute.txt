@@ -1,0 +1,6 @@
+D:\CSharp\repos\DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
+D:\CSharp\repos\DesignPatterns\Prototype\bin\Debug\Prototype.exe
+D:\CSharp\repos\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+D:\CSharp\repos\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+D:\CSharp\repos\DesignPatterns\Prototype\obj\Debug\Prototype.exe
+D:\CSharp\repos\DesignPatterns\Prototype\obj\Debug\Prototype.pdb
