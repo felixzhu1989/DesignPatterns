@@ -1,0 +1,6 @@
+E:\CSharp\repos\DesignPatterns\DesignPrinciple\bin\Debug\DesignPrinciple.exe
+E:\CSharp\repos\DesignPatterns\DesignPrinciple\bin\Debug\DesignPrinciple.pdb
+E:\CSharp\repos\DesignPatterns\DesignPrinciple\obj\Debug\DesignPrinciple.csproj.AssemblyReference.cache
+E:\CSharp\repos\DesignPatterns\DesignPrinciple\obj\Debug\DesignPrinciple.csproj.CoreCompileInputs.cache
+E:\CSharp\repos\DesignPatterns\DesignPrinciple\obj\Debug\DesignPrinciple.exe
+E:\CSharp\repos\DesignPatterns\DesignPrinciple\obj\Debug\DesignPrinciple.pdb
