@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nVYk/Aaw9wv95cgC6XUrL4KuzL8T+5SRpdjRzDFBKf5ckssJVxQBWI2ZHDtyzfCjcG+L68j+zXyUeyh46dBQRw==",
+  "success": true,
+  "projectFilePath": "E:\\CSharp\\repos\\DesignPatterns\\ProxyServer\\ProxyServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felix.zhu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
