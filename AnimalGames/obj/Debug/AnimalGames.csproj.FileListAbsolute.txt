@@ -1,0 +1,17 @@
+E:\CSharp\repos\DesignPatterns\AnimalGames\bin\Debug\AnimalGames.exe.config
+E:\CSharp\repos\DesignPatterns\AnimalGames\bin\Debug\AnimalGames.exe
+E:\CSharp\repos\DesignPatterns\AnimalGames\bin\Debug\AnimalGames.pdb
+E:\CSharp\repos\DesignPatterns\AnimalGames\obj\Debug\AnimalGames.csproj.AssemblyReference.cache
+E:\CSharp\repos\DesignPatterns\AnimalGames\obj\Debug\MainWindow.g.cs
+E:\CSharp\repos\DesignPatterns\AnimalGames\obj\Debug\App.g.cs
+E:\CSharp\repos\DesignPatterns\AnimalGames\obj\Debug\AnimalGames_MarkupCompile.cache
+E:\CSharp\repos\DesignPatterns\AnimalGames\obj\Debug\AnimalGames_MarkupCompile.lref
+E:\CSharp\repos\DesignPatterns\AnimalGames\obj\Debug\MainWindow.baml
+E:\CSharp\repos\DesignPatterns\AnimalGames\obj\Debug\AnimalGames.g.resources
+E:\CSharp\repos\DesignPatterns\AnimalGames\obj\Debug\AnimalGames.Properties.Resources.resources
+E:\CSharp\repos\DesignPatterns\AnimalGames\obj\Debug\AnimalGames.csproj.GenerateResource.cache
+E:\CSharp\repos\DesignPatterns\AnimalGames\obj\Debug\AnimalGames.csproj.CoreCompileInputs.cache
+E:\CSharp\repos\DesignPatterns\AnimalGames\obj\Debug\AnimalGames.exe
+E:\CSharp\repos\DesignPatterns\AnimalGames\obj\Debug\AnimalGames.pdb
+E:\CSharp\repos\DesignPatterns\AnimalGames\obj\Debug\AnimalView.g.cs
+E:\CSharp\repos\DesignPatterns\AnimalGames\obj\Debug\AnimalView.baml

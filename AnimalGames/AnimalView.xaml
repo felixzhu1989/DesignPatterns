@@ -1,0 +1,25 @@
+﻿<Window x:Class="AnimalGames.AnimalView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AnimalGames"
+        mc:Ignorable="d"
+        Title="AnimalGames" Height="300" Width="400" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <Button Height="25" Width="60" Content="猫叫" Margin="10"
+                    Click="ButtonBase_OnClick" />
+            <Button x:Name="btnDog" Height="25" Width="60" Content="狗叫" Margin="10"
+                    Click="BtnDog_OnClick"/>
+            <Button x:Name="btnApply" Height="25" Width="80" Content="动物报名" Margin="10"
+                    Click="BtnApply_OnClick"/>
+            <Button x:Name="btnShoutGame" Height="25" Width="80" Content="叫声比赛" Margin="10"
+                    Click="BtnShoutGame_OnClick"/>
+            <Button x:Name="btnChangeThing" Height="25" Width="100" Content="变出东西" Margin="10"
+                    Click="BtnChangeThing_OnClick"></Button>
+            <Button x:Name="benEvent" Height="25" Width="100" Content="事件与委托" Margin="10"
+                    Click="BenEvent_OnClick"></Button>
+        </StackPanel>
+    </Grid>
+</Window>
