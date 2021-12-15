@@ -1,0 +1,6 @@
+E:\CSharp\repos\DesignPatterns\Ch09.4\bin\Debug\Ch09.4.exe.config
+E:\CSharp\repos\DesignPatterns\Ch09.4\bin\Debug\Ch09.4.exe
+E:\CSharp\repos\DesignPatterns\Ch09.4\bin\Debug\Ch09.4.pdb
+E:\CSharp\repos\DesignPatterns\Ch09.4\obj\Debug\Ch09.4.csproj.CoreCompileInputs.cache
+E:\CSharp\repos\DesignPatterns\Ch09.4\obj\Debug\Ch09.4.exe
+E:\CSharp\repos\DesignPatterns\Ch09.4\obj\Debug\Ch09.4.pdb
