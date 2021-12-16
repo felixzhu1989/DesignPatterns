@@ -1,0 +1,10 @@
+E:\CSharp\repos\DesignPatterns\Ch13.3\bin\Debug\Ch13.3.exe.config
+E:\CSharp\repos\DesignPatterns\Ch13.3\bin\Debug\Ch13.3.exe
+E:\CSharp\repos\DesignPatterns\Ch13.3\bin\Debug\Ch13.3.pdb
+E:\CSharp\repos\DesignPatterns\Ch13.3\obj\Debug\Ch13.3.csproj.AssemblyReference.cache
+E:\CSharp\repos\DesignPatterns\Ch13.3\obj\Debug\Ch13._3.Form1.resources
+E:\CSharp\repos\DesignPatterns\Ch13.3\obj\Debug\Ch13._3.Properties.Resources.resources
+E:\CSharp\repos\DesignPatterns\Ch13.3\obj\Debug\Ch13.3.csproj.GenerateResource.cache
+E:\CSharp\repos\DesignPatterns\Ch13.3\obj\Debug\Ch13.3.csproj.CoreCompileInputs.cache
+E:\CSharp\repos\DesignPatterns\Ch13.3\obj\Debug\Ch13.3.exe
+E:\CSharp\repos\DesignPatterns\Ch13.3\obj\Debug\Ch13.3.pdb

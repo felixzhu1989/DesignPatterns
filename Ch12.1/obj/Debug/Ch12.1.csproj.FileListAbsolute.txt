@@ -1,0 +1,7 @@
+E:\CSharp\repos\DesignPatterns\Ch12.1\bin\Debug\Ch12.1.exe.config
+E:\CSharp\repos\DesignPatterns\Ch12.1\bin\Debug\Ch12.1.exe
+E:\CSharp\repos\DesignPatterns\Ch12.1\bin\Debug\Ch12.1.pdb
+E:\CSharp\repos\DesignPatterns\Ch12.1\obj\Debug\Ch12.1.csproj.AssemblyReference.cache
+E:\CSharp\repos\DesignPatterns\Ch12.1\obj\Debug\Ch12.1.csproj.CoreCompileInputs.cache
+E:\CSharp\repos\DesignPatterns\Ch12.1\obj\Debug\Ch12.1.exe
+E:\CSharp\repos\DesignPatterns\Ch12.1\obj\Debug\Ch12.1.pdb
