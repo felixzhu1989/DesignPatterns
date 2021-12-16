@@ -5,3 +5,10 @@ D:\CSharp\repos\DesignPatterns\Builder\obj\Debug\Builder.csprojAssemblyReference
 D:\CSharp\repos\DesignPatterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
 D:\CSharp\repos\DesignPatterns\Builder\obj\Debug\Builder.exe
 D:\CSharp\repos\DesignPatterns\Builder\obj\Debug\Builder.pdb
+D:\DesignPatterns\Builder\bin\Debug\Builder.exe.config
+D:\DesignPatterns\Builder\bin\Debug\Builder.exe
+D:\DesignPatterns\Builder\bin\Debug\Builder.pdb
+D:\DesignPatterns\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+D:\DesignPatterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\Builder\obj\Debug\Builder.exe
+D:\DesignPatterns\Builder\obj\Debug\Builder.pdb

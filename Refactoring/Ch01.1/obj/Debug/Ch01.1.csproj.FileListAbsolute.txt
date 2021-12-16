@@ -1,0 +1,11 @@
+D:\DesignPatterns\Refactoring\Ch01.1\bin\Debug\invoices.json
+D:\DesignPatterns\Refactoring\Ch01.1\bin\Debug\plays.json
+D:\DesignPatterns\Refactoring\Ch01.1\bin\Debug\Ch01.1.exe.config
+D:\DesignPatterns\Refactoring\Ch01.1\bin\Debug\Ch01.1.exe
+D:\DesignPatterns\Refactoring\Ch01.1\bin\Debug\Ch01.1.pdb
+D:\DesignPatterns\Refactoring\Ch01.1\bin\Debug\Newtonsoft.Json.dll
+D:\DesignPatterns\Refactoring\Ch01.1\bin\Debug\Newtonsoft.Json.xml
+D:\DesignPatterns\Refactoring\Ch01.1\obj\Debug\Ch01.1.csproj.AssemblyReference.cache
+D:\DesignPatterns\Refactoring\Ch01.1\obj\Debug\Ch01.1.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\Refactoring\Ch01.1\obj\Debug\Ch01.1.exe
+D:\DesignPatterns\Refactoring\Ch01.1\obj\Debug\Ch01.1.pdb
