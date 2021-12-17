@@ -4,7 +4,7 @@ using System.IO;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Ch01._1
+namespace Rf01._1
 {
     class Program
     {
