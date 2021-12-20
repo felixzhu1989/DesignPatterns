@@ -1,0 +1,6 @@
+E:\CSharp\repos\DesignPatterns\BigTalkDesignPatterns\Ch25.1\bin\Debug\Ch25.1.exe.config
+E:\CSharp\repos\DesignPatterns\BigTalkDesignPatterns\Ch25.1\bin\Debug\Ch25.1.exe
+E:\CSharp\repos\DesignPatterns\BigTalkDesignPatterns\Ch25.1\bin\Debug\Ch25.1.pdb
+E:\CSharp\repos\DesignPatterns\BigTalkDesignPatterns\Ch25.1\obj\Debug\Ch25.1.csproj.CoreCompileInputs.cache
+E:\CSharp\repos\DesignPatterns\BigTalkDesignPatterns\Ch25.1\obj\Debug\Ch25.1.exe
+E:\CSharp\repos\DesignPatterns\BigTalkDesignPatterns\Ch25.1\obj\Debug\Ch25.1.pdb

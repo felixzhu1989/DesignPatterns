@@ -1,0 +1,11 @@
+E:\CSharp\repos\DesignPatterns\BigTalkDesignPatterns\Ch21.1\bin\Debug\Ch21.1.exe.config
+E:\CSharp\repos\DesignPatterns\BigTalkDesignPatterns\Ch21.1\bin\Debug\Ch21.1.exe
+E:\CSharp\repos\DesignPatterns\BigTalkDesignPatterns\Ch21.1\bin\Debug\Ch21.1.pdb
+E:\CSharp\repos\DesignPatterns\BigTalkDesignPatterns\Ch21.1\obj\Debug\Ch21.1.csproj.AssemblyReference.cache
+E:\CSharp\repos\DesignPatterns\BigTalkDesignPatterns\Ch21.1\obj\Debug\Ch21._1.FrmMain.resources
+E:\CSharp\repos\DesignPatterns\BigTalkDesignPatterns\Ch21.1\obj\Debug\Ch21._1.FrmToolBox.resources
+E:\CSharp\repos\DesignPatterns\BigTalkDesignPatterns\Ch21.1\obj\Debug\Ch21._1.Properties.Resources.resources
+E:\CSharp\repos\DesignPatterns\BigTalkDesignPatterns\Ch21.1\obj\Debug\Ch21.1.csproj.GenerateResource.cache
+E:\CSharp\repos\DesignPatterns\BigTalkDesignPatterns\Ch21.1\obj\Debug\Ch21.1.csproj.CoreCompileInputs.cache
+E:\CSharp\repos\DesignPatterns\BigTalkDesignPatterns\Ch21.1\obj\Debug\Ch21.1.exe
+E:\CSharp\repos\DesignPatterns\BigTalkDesignPatterns\Ch21.1\obj\Debug\Ch21.1.pdb
